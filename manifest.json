@@ -1,0 +1,17 @@
+{
+  "name": "Jeu de coach",
+  "short_name": "Coach",
+  "description": "Jeu de gestion et de football : choisis ton club, compose ton équipe et suis ta saison.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1e4a",
+  "theme_color": "#0b1e4a",
+  "lang": "fr",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
