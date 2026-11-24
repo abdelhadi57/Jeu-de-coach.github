@@ -1,5 +1,5 @@
 // Service worker : permet de jouer hors ligne après la première ouverture.
-var CACHE='jeu-de-coach-v1';
+var CACHE='jeu-coaching-v6';
 var CORE=['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png','./icon-maskable-512.png',
  'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js'];
 self.addEventListener('install',function(e){
